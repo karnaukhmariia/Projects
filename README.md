@@ -1,4 +1,4 @@
-#cPython Projects Repository
+# Python Projects Repository
 
 Welcome to my Python projects repository. This repository contains two comprehensive case studies focused on real-world data analysis and machine learning:
 
